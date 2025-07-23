@@ -7,20 +7,23 @@ Further, we will introduce the hybrid approach that enables the LLM to generate 
 ![](img/hana-cloud-hybrid-rag.png)
 
 ### Business Problem
-John, a computer reseller, manages a large and diverse inventory of hardware products and accessories sourced from multiple suppliers. While product and vendor data is stored in SAP S/4HANA, he faces challenges to make informed and timely decisions, resulting in missed opportunities and operational inefficiencies.
+John, a computer reseller, manages a large and diverse inventory of hardware products and accessories sourced from multiple suppliers. While product and vendor data is stored in SAP S/4HANA, he faces challenges to make informed and timely decisions, resulting in missed opportunities and operational inefficiencies.  
 
-1. **Product Search**: Product descriptions contain valuable information (brand, rating, performance, complementary offerings, etc.) that is not easily searchable or filterable.
-2. **Accessiry Compatibility**: Traditional keyword-based search methods are inadequate for handling unstructured descriptions.
-3. **Vendor Reliability**: There's a need to quickly identify the suppliers reliability based on the historical records.
+1. **Product Search**  
+    Product descriptions contain valuable information (brand, rating, performance, complementary offerings, etc.) that is not easily searchable or filterable.
+2. **Accessiry Compatibility**  
+    Traditional keyword-based search methods are inadequate for handling unstructured descriptions.
+3. **Vendor Reliability**  
+    There's a need to quickly identify the suppliers reliability based on the historical records.
 
 ### Desired Solution
 
-To address the challenges John faces in managing and utilizing product and vendor data, we propose building an intelligent product and vendor discovery application using a hybrid Retrieval-Augmented Generation (RAG) architecture. This solution will combine the strengths of SAP HANA Cloud’s vector engine, SAP HANA Cloud knowledge graph engine, and Large Language Models (LLMs) via SAP Generative AI Hub.
+To address the challenges John faces in managing and utilizing product and vendor data, we propose building an intelligent product and vendor discovery application using a hybrid Retrieval-Augmented Generation (RAG) architecture. This solution will combine the strengths of SAP HANA Cloud’s vector engine, SAP HANA Cloud knowledge graph engine, and Large Language Models (LLMs) via SAP Generative AI Hub.  
 
-1. Accept **natural language queries** from users to search for products that match specific customer needs.
-2. Create ontologies for tabular data of vendor reliability, product and supplier relationships in a **knowledge graph**.
-3. Retrieve both similarity search and graph-based results and pass to the **LLM**.
-4. Build a **front-end interface** in SAP Business Application Studio to enable easy interaction for John and his team.
+1. Accept **natural language queries** from users to search for products that match specific customer needs.  
+2. Create ontologies for tabular data of vendor reliability, product and supplier relationships in a **knowledge graph**.  
+3. Retrieve both similarity search and graph-based results and pass to the **LLM**.  
+4. Build a **front-end interface** in SAP Business Application Studio to enable easy interaction for John and his team.  
 
 ### Technical Implementation
 
