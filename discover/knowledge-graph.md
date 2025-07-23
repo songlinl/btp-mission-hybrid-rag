@@ -30,5 +30,5 @@ The SAP HANA Cloud knowledge graph engine enables working with knowledge graphs.
     Knowledge graphs contribute to better data governance by establishing clearer semantical relationships and rules for data entities, which improves logical reasoning and helps users make more informed, accurate decisions with fewer errors.
 
 ### Learn More
-[SAP Help - SAP HANA Database Knowledge Graph Engine Guide](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-knowledge-graph-guide/sap-hana-cloud-sap-hana-database-knowledge-graph-engine-guide)
+[SAP Help - SAP HANA Database Knowledge Graph Engine Guide](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-knowledge-graph-guide/sap-hana-cloud-sap-hana-database-knowledge-graph-engine-guide)  
 [Connecting the Facts: SAP HANA Cloud’s Knowledge Graph Engine for Business Context](https://community.sap.com/t5/technology-blog-posts-by-sap/connecting-the-facts-sap-hana-cloud-s-knowledge-graph-engine-for-business/ba-p/13888597)

@@ -3,5 +3,5 @@ SAP Generative AI Hub is a core capability embedded within SAP AI Core and SAP A
 ### Learn More
 [SAP Help - Generative AI Hub](https://help.sap.com/docs/ai-launchpad/sap-ai-launchpad-user-guide/generative-ai-hub)  
 [How SAP’s Generative AI Hub facilitates embedded, trustworthy, and reliable AI](https://community.sap.com/t5/technology-blog-posts-by-sap/how-sap-s-generative-ai-hub-facilitates-embedded-trustworthy-and-reliable/ba-p/13596153)  
-[Unlocking the Potential of Business AI: Engineering Best Practices](https://community.sap.com/t5/technology-blog-posts-by-sap/unlocking-the-potential-of-business-ai-engineering-best-practices/ba-p/13701049) 
+[Unlocking the Potential of Business AI: Engineering Best Practices](https://community.sap.com/t5/technology-blog-posts-by-sap/unlocking-the-potential-of-business-ai-engineering-best-practices/ba-p/13701049)  
 [Boosting Benchmarking for Reliable Business AI](https://community.sap.com/t5/technology-blog-posts-by-sap/boosting-benchmarking-for-reliable-business-ai/ba-p/13650962)

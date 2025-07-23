@@ -21,5 +21,5 @@ The SAP HANA Cloud vector engine supports the create, read, update, and delete (
 - Anomaly detection
 
 ### Learn More
-[SAP Help - SAP HANA Database Vector Engine Guide](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-vector-engine-guide/sap-hana-cloud-sap-hana-database-vector-engine-guide)
+[SAP Help - SAP HANA Database Vector Engine Guide](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-vector-engine-guide/sap-hana-cloud-sap-hana-database-vector-engine-guide)  
 [Vectorize your Data : SAP HANA Cloud's Vector Engine for Unified Data Excellence](https://community.sap.com/t5/technology-blog-posts-by-sap/vectorize-your-data-sap-hana-cloud-s-vector-engine-for-unified-data/ba-p/13579558)
