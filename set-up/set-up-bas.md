@@ -5,8 +5,6 @@
 1. Navigate to your global account and Choose **Boosters**.
    
    Choose **Get Started with SAP Business Application Studio** booster
-
-   <!-- [!NOTE] You can also use the Fee Plan option. -->
  
     ![](img/12.png)
 
