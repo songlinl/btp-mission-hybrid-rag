@@ -45,12 +45,12 @@ There are several development environments available for running Python notebook
 
 11. Open the downloaded service key file or go to your BTP subaccount -> Services -> Instances and Subscriptions find your AI core instance, open the key file. 
 
-    ![](..\set-up\img\26.png)
+    ![](../set-up/img/26.png)
 
 12. Enter environment parameters for the **.env** file.  
-    ![](img/create_env1.png)
-    ![](..\set-up\img\30.png)
-    ![](..\set-up\img\52.png)
+    ![](img/create_env1.png)  
+    ![](../set-up/img/30.png)  
+    ![](../set-up/img/52.png)  
     Copy and paste the environment parameters below into your `.env` file, and replace the placeholder values with your own configuration details.   
 
     ~~~env
