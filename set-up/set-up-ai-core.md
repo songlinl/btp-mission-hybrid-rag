@@ -1,18 +1,18 @@
 ### Set Up SAP AI Core
 
-1. Navigate to your global account and select **Boosters** tile.
+1. Navigate to your global account and choose **Boosters** tile.
    
-    Select **Set Up Account for SAP AI Core** booster
+    Choose **Set Up Account for SAP AI Core** booster
 
     ![](img/16.png)
 
 2. Choose **Start**.
 
-    Make sure that ***All required prerequisites are met*** and Choose **Next**.
+    Make sure that ***All required prerequisites are met*** and choose **Next**.
 
     ![](img/17.png)
 
-3. Select **Select Subaccount** mode for the booster and Choose **Next**.
+3. Choose **Select Subaccount** mode for the booster and choose **Next**.
 
     ![](img/18.png)
 
