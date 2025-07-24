@@ -47,11 +47,11 @@ There are several development environments available for running Python notebook
 
     ![](..\set-up\img\26.png)
 
-12. Enter environment parameters for the **.env** file.
+12. Enter environment parameters for the **.env** file.  
     ![](img/create_env1.png)
     ![](..\set-up\img\30.png)
     ![](..\set-up\img\52.png)
-    Copy the below environment parameters and paste them into your .env file, but replace the value placehoders by your own parameter values.   
+    Copy and paste the environment parameters below into your `.env` file, and replace the placeholder values with your own configuration details.   
 
     ~~~env
     ## Credentials for accessing SAP AI Core service models
