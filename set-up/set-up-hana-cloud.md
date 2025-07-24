@@ -1,4 +1,4 @@
-## Set Up SAP HANA Cloud
+### Set Up SAP HANA Cloud
 
 > [!WARNING|label:IMPORTANT] If you already have an SAP HANA Cloud instance in the same BTP region, you can skip running the booster. You only need to add **Triple Store** and **Natural Language Processing (NLP)** to your SAP HANA Cloud database configuration. Optionally, you may also enable the **Document Store** if you plan to complete the optional exercise.  
     ![](img/32.png)
@@ -147,22 +147,3 @@
 
 6. Please ensure your workshop user has the object previlliges access the schema **SPURCHASE**. 
 
-<!--
-### Add HDI container Entitlement
-
-1. Navigate to your subaccount -> **Entitlements** tab and press **Edit**.
-
-    ![](img/45.png)
-
-2. Press **Add Service Plans**.
-
-    ![](img/46.png)
-
-3. Search for `hdi`, select **SAP HANA Schemas & HDI Containers** service, select **hdi-shared** service plan and press **Add 1 Service Plan**.
-
-    ![](img/47.png)
-
-4. Press **Save**.
-
-    ![](img/48.png)
--->

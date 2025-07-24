@@ -1,4 +1,4 @@
-## Set Up SAP Business Application Studio
+### Set Up SAP Business Application Studio
 
 >[!NOTE] We are setting up SAP Business Application Studio to access the design-time environment.
 
