@@ -58,7 +58,7 @@ There are several development environments available for running Python notebook
     AICORE_AUTH_URL = '<url>'
     AICORE_CLIENT_ID = '<Clientid>'
     AICORE_CLIENT_SECRET = '<Clientsecret>'
-    AICORE_BASE_URL = '<API_AI_URL>'
+    AICORE_BASE_URL = '<API_AI_URL>/v2'
     AICORE_RESOURCE_GROUP = '<Resource Group>'
 
     ## Credentials for accessing SAP HANA Cloud database
