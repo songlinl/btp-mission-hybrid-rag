@@ -105,9 +105,9 @@
     When it comes to "Input Parameters", please fill in the following:
 
     - modelName: **anthropic--claude-3.7-sonnet** 
-    >💡**Tip**: The model name needs to be exactly the same as specified
+        >💡**Tip**: The model name needs to be exactly the same as specified
     - modelVersion: **latest** 
-    >💡**Tip**: You can also enter a version number listed in <a href="https://me.sap.com/notes/3437766" target="_blank">SAP documentation</a>. This exercise uses the `latest`.
+        >💡**Tip**: You can also enter a version number listed in <a href="https://me.sap.com/notes/3437766" target="_blank">SAP documentation</a>. This exercise uses the 'latest`.
 
     ![create config claude 2](img/dp-2-claude35.png) 
 
