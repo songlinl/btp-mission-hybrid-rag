@@ -12,21 +12,21 @@
 
 2. In the form, please fill in the following information:
 
-   - Configuration Name: **openai-embedding-config**
-   - Scenario: **foundation-models**
-   - Version: **0.0.1**
-   - Executable: **azure-openai**
+    - Configuration Name: **openai-embedding-config**
+    - Scenario: **foundation-models**
+    - Version: **0.0.1**
+    - Executable: **azure-openai**
 
-   ![create config 1](img/emb-01.png)
+    ![create config 1](img/emb-01.png)
 
-    Click the **Next** button to move to the next step. 
+     Click the **Next** button to move to the next step. 
 
 3. In the form, please fill in the following information:
 
-   - modelName: **text-embedding-ada-002** 
-   > [!TIP] The model name needs to be exactly the same as specified
-   - modelVersion: **latest** 
-   > [!TIP] You can also enter a version number listed in <a href="https://me.sap.com/notes/3437766" target="_blank">SAP documentation</a>. In this exercise, let's use the latest
+    - modelName: **text-embedding-ada-002**  
+        >💡**Tip**: The model name needs to be exactly the same as specified.  
+    - modelVersion: **latest**  
+        >💡**Tip**: You can also specify a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.  
 
    ![create config 2](img/emb-02.png)
 
@@ -62,9 +62,9 @@
 
     **Now the deployment has started.** Monitor the status changes here. 
 
-    On the deployment screen, you can see the Target Status is **RUNNING** and in the beginning, the Current Status is **UNKNOWN**.  Also, the deployment URL says *URL isn't available* until the model is deployed. 
+    On the deployment screen, you can see the Target Status is **RUNNING** and in the beginning, the Current Status is **UNKNOWN**.  Also, the deployment URL says *URL isn't available* until the model is deployed.  
 
-    > [!TIP] The deployment process usually takes between 2 to 10 minutes, sometimes even longer, depending on the server's status, network, the number of parallel jobs, etc.  You can refresh the status by clicking the refresh icon on the top right of the screen. In the meanwhile, feel free to proceed with the steps below.
+    >💡**Tip**: The deployment process usually takes between 2 to 10 minutes, sometimes even longer, depending on the server's status, network, the number of parallel jobs, etc.  You can refresh the status by clicking the refresh icon on the top right of the screen. In the meanwhile, feel free to proceed with the steps below.
 
     ![create deployment 4](img/emb-06.png)
 
@@ -81,10 +81,10 @@
 
     When it comes to "Input Parameters", please fill in the following:
 
-    - modelName: **gpt-4o** 
-    > [!TIP] The model name needs to be exactly the same as specified
-    - modelVersion: **latest** 
-    > [!TIP] You can also enter a version number listed in <a href="https://me.sap.com/notes/3437766" target="_blank">SAP documentation</a>. In this exercise, let's use the latest
+    - modelName: **gpt-4o**  
+        >💡**Tip**: The model name needs to be exactly the same as specified.  
+    - modelVersion: **latest**  
+        >💡**Tip**: You can also specify a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.  
 
     ![create config4 2](img/gpt4-c2.png)
 
@@ -104,10 +104,10 @@
 
     When it comes to "Input Parameters", please fill in the following:
 
-    - modelName: **anthropic--claude-3.7-sonnet** 
-        >💡**Tip**: The model name needs to be exactly the same as specified
-    - modelVersion: **latest** 
-        >💡**Tip**: You can also enter a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.
+    - modelName: **anthropic--claude-3.7-sonnet**   
+        >💡**Tip**: The model name needs to be exactly the same as specified.  
+    - modelVersion: **latest**   
+        >💡**Tip**: You can also specify a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.  
 
     ![create config claude 2](img/dp-2-claude35.png) 
 
