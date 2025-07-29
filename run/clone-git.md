@@ -71,5 +71,5 @@ There are several development environments available for running Python notebook
 
     ![](img/create_env3.png)
 
-    > [!TIP] To understand from where we obtained the credentials for SAP AI Core service, please see <a href="https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/enabling-service-in-cloud-foundry" target="_blank">SAP AI Core - Enabling the Service in Cloud Foundry</a>
+    >💡**Tip**: To understand from where we obtained the credentials for SAP AI Core service, please see <a href="https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/enabling-service-in-cloud-foundry" target="_blank">SAP AI Core - Enabling the Service in Cloud Foundry</a>
 

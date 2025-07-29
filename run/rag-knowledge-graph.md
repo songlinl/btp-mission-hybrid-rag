@@ -12,7 +12,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 **Knowledge Graph Retrieval Augmented Generation (RAG) workflow**
 
 1. Business entities and relationships that should be used for answering user questions are modeled and loaded into the knowledge graph. This includes structured data such as product catalogs, employee hierarchies, asset networks, and more.
-    >[!Note] A knowledge graph represents real-world entities (nodes) and their relationships (edges) in a semantic, queryable format. It allows machines to reason over the data and infer new relationships.
+    >📝**Note**: A knowledge graph represents real-world entities (nodes) and their relationships (edges) in a semantic, queryable format. It allows machines to reason over the data and infer new relationships.
 2. The structured data is enriched with ontologies or metadata to define types, hierarchies, and relationships. This ensures that the graph captures not just data, but context and meaning.
 ![](img/ontologies.png)
 
@@ -35,7 +35,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 3. Run the first code cell to install the required python modules.
 
-    > [!NOTE]To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
+    >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
     ![](img/kg-002.png)
 

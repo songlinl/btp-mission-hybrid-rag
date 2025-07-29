@@ -18,11 +18,11 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 2. Document chunking is applied to break large text files into smaller, manageable pieces suitable for semantic indexing.
 
-    >[!Note] "Chunking" enables finer-grained retrieval, ensuring that responses are grounded in the most relevant segment of a document.
+    >📝**Note**: "Chunking" enables finer-grained retrieval, ensuring that responses are grounded in the most relevant segment of a document.
 
 3. Embeddings are generated from the text chunks using models from SAP Generative AI Hub, producing dense vector representations of each chunk.
 
-    >[!Note] Embeddings allow the system to search by meaning rather than keywords.
+    >📝**Note**: Embeddings allow the system to search by meaning rather than keywords.
 
 4. The generated embeddings are stored in SAP HANA Cloud’s vector engine, enabling high-performance semantic search over unstructured data.
 
@@ -54,7 +54,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 3. Run the first code cell to install the required python modules.
 
-    > [!NOTE]To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
+    >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
     ![](img/hybrid-002.png)
 

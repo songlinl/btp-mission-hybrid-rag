@@ -1,6 +1,6 @@
 ### Set Up SAP Business Application Studio
 
->[!NOTE] We are setting up SAP Business Application Studio to access the design-time environment.
+>📝**Note**: We are setting up SAP Business Application Studio to access the design-time environment.
 
 1. Navigate to your global account and Choose **Boosters**.
    
@@ -39,7 +39,7 @@
 
     ![](img/07.png)
 
-    > [!TIP] In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
+    >💡**Tip**: In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
     >- **Business Application Studio Administrator** 
     >- **Business Application Studio Developer**
     > 

@@ -53,7 +53,7 @@
 
     Notice that the workspace is set automatically (this may take some time). 
     
-     > [!TIP] This includes a default resource group that has been automatically created under **Resource Groups**
+     >💡**Tip**: This includes a default resource group that has been automatically created under **Resource Groups**
      > A resource group is used to connect with all computing resources needed for an AI workflow.  It also isolates your own workflow vs other users' workflows. You can create more resource groups if needed. 
 
     ![](img/30.png)

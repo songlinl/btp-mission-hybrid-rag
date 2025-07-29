@@ -1,8 +1,7 @@
 ### Set Up SAP HANA Cloud
 
-> [!WARNING|label:IMPORTANT] If you already have an SAP HANA Cloud instance in the same BTP region, you can skip running the booster. You only need to add **Triple Store** and **Natural Language Processing (NLP)** to your SAP HANA Cloud database configuration. Optionally, you may also enable the **Document Store** if you plan to complete the optional exercise.  
-    ![](img/32.png)
- <!-- Instead, perform instance mapping. Please see <a href="https://help.sap.com/docs/hana-cloud/sap-hana-cloud-administration-guide/map-sap-hana-database-to-another-environment-context?locale=en-US" target="_blank">Map an SAP HANA Database to Another Environment Context</a> for more details. -->
+>⚠️**Important**: If you already have an SAP HANA Cloud instance in the same BTP region, you can skip running the booster. You only need to add **Triple Store** and **Natural Language Processing (NLP)** to your SAP HANA Cloud database configuration. Optionally, you may also enable the **Document Store** if you plan to complete the optional exercise.  
+>![](img/32.png)
 
 ### Run the Booster
 
@@ -41,7 +40,7 @@
 
     ![](img/35.png)
 
-    > [!TIP] In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
+    >💡**Tip**: In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
     > - **SAP HANA Cloud Administrator**
     > - **SAP HANA Cloud Viewer**
 
@@ -64,7 +63,7 @@
 
 5. Increase the **Memory** to **48** GB. 
 
-    >[!WARNING|label:Note] A minimum of **48 GB** of memory is required to use the Triple Store, and **64 GB** to include both the Triple Store and Document Store.
+    >⚠️**Important**: A minimum of **48 GB** of memory is required to use the Triple Store, and **64 GB** to include both the Triple Store and Document Store.
 
    Choose **Next Step**.
 
@@ -79,9 +78,9 @@
     - **Triple Store**
     - **Natural Language Processing (NLP)**
 
-   Choose **Create Now**.
+    Choose **Create Now**.
 
-   >[!NOTE] We don't need Data Lake for our scenario.
+    >📝**Note**: We don't need Data Lake for our scenario.
 
     ![](img/41.png)
 
@@ -89,7 +88,7 @@
 
     ![](img/42.png)
 
-    >[!TIP] Creating and starting the instance may take some time.
+    >💡**Tip**: Creating and starting the instance may take some time.
 
     ![](img/43.png)
 

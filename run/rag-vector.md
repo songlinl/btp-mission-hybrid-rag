@@ -13,9 +13,9 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 **Retrieval Augmented Generation (RAG) workflow**
 
 1. Business documents that should be used for answering user questions are fed into the model. The contents of the files are split into smaller chunks.
-    >[!Note] "Chunking" (and sometimes called "llm chunking") refers to dividing a large text corpus into smaller, manageable pieces or segments. Each recursive chunking part acts as a standalone unit of information that can be individually indexed and retrieved. 
+    >📝**Note**: "Chunking" (and sometimes called "llm chunking") refers to dividing a large text corpus into smaller, manageable pieces or segments. Each recursive chunking part acts as a standalone unit of information that can be individually indexed and retrieved. 
 2. Embedding functions are used to create embeddings from the file/document chunks.
-    > [!Note] Embeddings refer to dense, continuous vectors representing text in a high-dimensional space. These vectors serve as coordinates in a semantic space, capturing the relationships and meanings between words.
+    >📝**Note**: Embeddings refer to dense, continuous vectors representing text in a high-dimensional space. These vectors serve as coordinates in a semantic space, capturing the relationships and meanings between words.
     > ![embeddings](img/embeddings.png)
 3. The embeddings are then stored as vectors in the SAP HANA Cloud Database.
 4. A query or prompt is submitted.
@@ -35,7 +35,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 3. Run the first code cell to install the required python modules.
 
-    > [!NOTE]To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
+    >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
     ![](img/vectordb_013.png)
 
