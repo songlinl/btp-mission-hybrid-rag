@@ -52,7 +52,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 2. Read through the notebook until you get to the first code cell in the Setup and configuration section.
 
-3. Run the first code cell to install the required python modules.
+3. Run the first code cell to install the required python modules.  
 
     >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
