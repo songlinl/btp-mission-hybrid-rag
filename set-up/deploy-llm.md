@@ -24,9 +24,9 @@
 3. In the form, please fill in the following information:
 
     - modelName: **text-embedding-ada-002**  
-    >💡**Tip**: The model name needs to be exactly the same as specified.
+        >💡**Tip**: The model name needs to be exactly the same as specified.
     - modelVersion: **latest**  
-    >💡**Tip**: You can also specify a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.
+        >💡**Tip**: You can also specify a version number listed in [SAP Note](https://me.sap.com/notes/3437766). This exercise uses the `latest` version.
 
    ![create config 2](img/emb-02.png)
 
