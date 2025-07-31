@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this use case, we will embark on a journey to explore the hybrid integration of the **SAP HANA Cloud vector engine**, **SAP HANA Cloud knowledge graph engine**, and **SAP Generative AI Hub**, using the **LangChain** (Python) framework to build next-generation LLM-powered applications. The goal is to equip you with the knowledge and tools to combine both unstructured and structured data retrieval for generating more accurate, grounded, and context-aware responses.
+In this use case, we will explore the hybrid integration of the **SAP HANA Cloud vector engine**, **SAP HANA Cloud knowledge graph engine**, and **SAP Generative AI Hub**, using the **LangChain** (Python) framework to build next-generation LLM-powered applications. The goal is to equip you with the knowledge and tools to combine both unstructured and structured data retrieval for generating more accurate, grounded, and context-aware responses.
 
 By harnessing the power of vector-based semantic search, you can retrieve relevant passages from unstructured business content, such as documents, emails, and wikis. In parallel, the knowledge graph engine enables precise querying of structured enterprise data—such as product relationships, asset hierarchies, or organizational roles—via semantic graphs stored in **SAP HANA Cloud**.
 
@@ -54,7 +54,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 3. Run the first code cell to install the required python modules.  
 
-    >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
+    >📝**Note**: To execute a code cell, click the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
     ![](img/hybrid-002.png)
 
@@ -66,8 +66,8 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
     ![](img/vectordb_017.png)
 
-7. On the following pop-up window, Choose **Restart**. It will take a few seconds for the kernel to restart and once done, the environment is ready for use!
+7. On the following pop-up window, Choose **Restart**. It will take a few seconds for the kernel to restart. After it restarts, the environment is ready for use!
 
     ![](img/vectordb_018.png)
 
-8. Please follow the step-by-step instructions provided in the **Jupyter Notebook** to complete the remaining parts of the exercise.
+8. Follow the step-by-step instructions provided in the **Jupyter Notebook** to complete the remaining parts of the exercise.

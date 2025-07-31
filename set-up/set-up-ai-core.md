@@ -1,8 +1,8 @@
 ### Set Up SAP AI Core
 
-1. Navigate to your global account and choose **Boosters** tile.
+1. Navigate to your global account and choose the **Boosters** tile.
    
-    Choose **Set Up Account for SAP AI Core** booster
+    Choose the **Set Up Account for SAP AI Core** booster.
 
     ![](img/16.png)
 
@@ -41,19 +41,19 @@
 
     ![](img/27.png)
 
-2. Navigate back to the **SAP AI Launchpad** homepage and Choose **Add** button to add the connection.
+2. Navigate back to the **SAP AI Launchpad** homepage and choose **Add** to add the connection.
 
     ![](img/28.png)
 
-    Click on **Upload icon** to upload service key you've downloaded on the previous step. Notice that the values are populated automatically. 
+    Click **Upload icon** to upload the service key you downloaded in the previous step. Notice that the values are populated automatically. 
 
-    Specify the **Connection Name** as `default` and Choose **Create**.
+    Specify the **Connection Name** as `default` and choose **Create**.
 
     ![](img/29.png)
 
     Notice that the workspace is set automatically (this may take some time). 
     
-     >💡**Tip**: This includes a default resource group that has been automatically created under **Resource Groups**
-     > A resource group is used to connect with all computing resources needed for an AI workflow.  It also isolates your own workflow vs other users' workflows. You can create more resource groups if needed. 
+     >💡**Tip**: This includes a default resource group that has been automatically created under **Resource Groups**.
+     > A resource group is used to connect with all computing resources needed for an AI workflow.  It also isolates your own workflow from other users' workflows. You can create more resource groups if needed. 
 
     ![](img/30.png)

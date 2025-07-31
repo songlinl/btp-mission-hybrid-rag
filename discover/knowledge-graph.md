@@ -15,7 +15,7 @@ The SAP HANA Cloud knowledge graph engine enables working with knowledge graphs.
 - **Enhanced user experience**  
     Knowledge graphs make AI interfaces more intuitive, allowing users to interact naturally with complex data systems, thereby improving user engagement and satisfaction.  
 
-- **The multi model advantage**  
+- **The multi-model advantage**  
     The ability to handle both structured and unstructured data within a single platform allows businesses to scale their applications easily while maintaining flexibility in data processing and analysis.  
 
 ### Use Cases

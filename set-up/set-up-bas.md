@@ -2,9 +2,9 @@
 
 >📝**Note**: We are setting up SAP Business Application Studio to access the design-time environment.
 
-1. Navigate to your global account and Choose **Boosters**.
+1. Navigate to your global account and choose the **Boosters**.
    
-   Choose **Get Started with SAP Business Application Studio** booster
+   Choose the **Get Started with SAP Business Application Studio** booster.
  
     ![](img/12.png)
 
@@ -31,7 +31,7 @@
 
 7. Choose **Finish**.
 
-8. Navigate to your subaccount -> **Instances and Subscriptions** and validate that you can access SAP Business Application Studio by opening it in incognito window.
+8. Navigate to your subaccount -> **Instances and Subscriptions** and validate that you can access SAP Business Application Studio by opening it in an incognito window.
 
     ![](img/06.png)
 
@@ -39,7 +39,7 @@
 
     ![](img/07.png)
 
-    >💡**Tip**: In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
+    >💡**Tip**: If a *Forbidden* error apprears, make sure you're logging on as a user with the following role collections assigned:
     >- **Business Application Studio Administrator** 
     >- **Business Application Studio Developer**
     > 

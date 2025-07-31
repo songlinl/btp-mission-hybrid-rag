@@ -1,8 +1,8 @@
 ### Set Up SAP AI Launchpad
 
-1. Navigate to your global account and choose **Boosters** tile.
+1. Navigate to your global account and choose the **Boosters** tile.
    
-   Choose **Set Up Account for SAP AI Launchpad** booster
+   Choose the **Set Up Account for SAP AI Launchpad** booster.
 
    ![](img/08.png)
 

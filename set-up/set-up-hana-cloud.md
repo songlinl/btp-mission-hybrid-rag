@@ -1,13 +1,13 @@
 ### Set Up SAP HANA Cloud
 
->⚠️**Important**: If you already have an SAP HANA Cloud instance in the same BTP region, you can skip running the booster. You only need to add **Triple Store** and **Natural Language Processing (NLP)** to your SAP HANA Cloud database configuration. Optionally, you may also enable the **Document Store** if you plan to complete the optional exercise.  
+>⚠️**Important**: If you already have an SAP HANA Cloud instance in the same BTP region, you can skip running the booster. You only need to add **Triple Store** and **Natural Language Processing (NLP)** to your SAP HANA Cloud database configuration. Optionally, you can also enable the **Document Store** if you plan to complete the optional exercise.  
 >![](img/32.png)
 
 ### Run the Booster
 
-1. Navigate to your global account and choose **Boosters**.
+1. Navigate to your global account and choose the **Boosters**.
    
-   Choose **Set Up SAP HANA Cloud Administration Tools** booster
+   Choose the **Set Up SAP HANA Cloud Administration Tools** booster.
 
     ![](img/31.png)
 
@@ -36,15 +36,15 @@
 
 ### Create SAP HANA Cloud Instance
 
-1. Navigate to your subaccount -> **Instances and Subscriptions** tab and validate that you can access SAP HANA Cloud Central by opening it in incognito window.
+1. Navigate to your subaccount -> **Instances and Subscriptions** tab and validate that you can access SAP HANA Cloud Central by opening it in an incognito window.
 
     ![](img/35.png)
 
-    >💡**Tip**: In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following role collections assigned:
+    >💡**Tip**: If a *Forbidden* error apprears, make sure you're logging on with the following role collections assigned:
     > - **SAP HANA Cloud Administrator**
     > - **SAP HANA Cloud Viewer**
 
-2. Choose **Create Instance**
+2. Choose **Create Instance**.
 
     ![](img/36.png)
 
@@ -57,7 +57,7 @@
 
     ![](img/37.png)
 
-4. Specify appropriate name for the instance and set Administrator Password for DBADMIN user and choose **Next Step**.
+4. Specify an appropriate name for the instance, set the Administrator Password for DBADMIN user, and choose **Next Step**.
 
     ![](img/38.png)
 
@@ -84,7 +84,7 @@
 
     ![](img/41.png)
 
-8.  Validate the SAP HANA Database Instance configuration and press **Create Instance**.
+8.  Validate the SAP HANA Database Instance configuration and choose **Create Instance**.
 
     ![](img/42.png)
 
@@ -110,7 +110,7 @@
 
     ![](img/49.png)
 
-   If required, register the instance with a database user (**DBADMIN** or your own user)
+   If required, register the instance with a database user (**DBADMIN** or your own user).
 
     ![](img/51.png)
 
@@ -130,11 +130,11 @@
 
     ![](img/54.png)
 
-3. Right-click on the Database and Choose **Import Catalog Objects**. 
+3. Right-click the Database and choose **Import Catalog Objects**. 
 
     ![](img/55.png)
 
-4. Choose **Browse** to select the download dataset from your local directory. You will notice that tables **S013**, **LFA1** in the object list and choose **Import**. 
+4. Choose **Browse** to select the download dataset from your local directory. Make sure that the tables **S013**, and **LFA1** are selected in the object list, and choose **Import**. 
 
     ![](img/56.png)
 
@@ -144,5 +144,5 @@
 
     ![](img/57.png)
 
-6. Please ensure your workshop user has the object previlliges access the schema **SPURCHASE**. 
+6. Please ensure your user has the object privileges required to access the **SPURCHASE** schema. 
 

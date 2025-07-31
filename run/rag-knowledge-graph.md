@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this use case, we will embark on a journey to explore the openness and interoperability between the **SAP HANA Cloud knowledge graph engine**, **SAP Generative AI Hub**, and the **LangChain** (Python) Framework for developing LLM-powered applications. The goal is to equip you with the knowledge and skills to handle structured, entity-rich data and build applications that generate accurate, context-aware responses.
+In this use case, we will explore the openness and interoperability between the **SAP HANA Cloud knowledge graph engine**, **SAP Generative AI Hub**, and the **LangChain** (Python) Framework for developing LLM-powered applications. The goal is to equip you with the knowledge and skills to handle structured, entity-rich data and build applications that generate accurate, context-aware responses.
 
 Leverage the power of Knowledge Graphs to model relationships between entities—such as products, customers, suppliers, or assets—in a way that is both semantic and queryable. With **SAP HANA Cloud**, structured data can be stored as a graph and accessed using SPARQL queries. This structured context is then integrated into LLM workflows via **SAP Generative AI Hub** and **LangChain**, allowing you to ground generative responses in verifiable enterprise knowledge.
 
@@ -24,7 +24,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 6. A graph query is dynamically constructed or retrieved from a template to match the query intent. This query is then executed on the SAP HANA Cloud knowledge graph.
 7. The most relevant facts, entities, or paths are retrieved from the graph—these are often concise, relational, and accurate answers grounded in structured data.
 8. The retrieved graph-based information is combined with the original user query and forwarded to a large language model such as GPT-4o.
-9. The LLM uses the graph results to enrich and ground its response generation. The final answer is both semantically rich and factually precise, and is returned to the user.
+9. The LLM uses the graph results to enrich and ground its response generation. The final answer, which is both semantically rich and factually precise, is returned to the user.
 
 
 ## Configure Jupyter and Python Extensions
@@ -37,7 +37,7 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
 3. Run the first code cell to install the required python modules.  
 
-    >📝**Note**: To execute a code cell, click on the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
+    >📝**Note**: To execute a code cell, click the play icon beside the cell. It is also possible to execute it by clicking into the code cell and pressing ***Shift+Enter***.
 
     ![](img/kg-002.png)
 
@@ -49,8 +49,8 @@ This section utilizes Jupyter notebooks deployed in **SAP Business Application S
 
     ![](img/vectordb_017.png)
 
-7. On the following pop-up window, Choose **Restart**. It will take a few seconds for the kernel to restart and once done, the environment is ready for use!
+7. In the following pop-up window, Choose **Restart**. It will take a few seconds for the kernel to restart. After it restarts, the environment is ready for use!
 
     ![](img/vectordb_018.png)
 
-8. Please follow the step-by-step instructions provided in the **Jupyter Notebook** to complete the remaining parts of the exercise.
+8. Follow the step-by-step instructions provided in the **Jupyter Notebook** to complete the remaining parts of the exercise.
