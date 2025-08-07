@@ -33,7 +33,7 @@
    
 1. Navigate to your subaccount -> **Instances and Subscriptions** tab and filter the list with `SAP AI Core` to show the SAP AI Core service instance.
 
-    Notice that the **Credentials key** has already been created by the booster. Click on it.
+    Notice that the **Credentials key** has already been created by the booster. Open it.
 
     ![](img/26.png)
 

@@ -36,7 +36,7 @@
 
     ![](img/24.png)
 
-    >💡**Tip**: In case you are facing *Forbidden* error, validate that the user with which you are logging in has the following roles assigned:
+    >💡**Tip**: If a *Forbidden* error apprears, make sure you're logging on as a user with the following role collections assigned:
     > - **ailaunchpad_aicore_admin_editor**
     > - **ailaunchpad_allow_all_resourcegroups**
     > - **ailaunchpad_connections_editor**

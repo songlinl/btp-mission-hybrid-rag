@@ -1,14 +1,14 @@
 ### Deploy Large Language Models (LLM) 
 
-1. Expand the ML Operations menu on the left and click **Configurations**. 
+1. Expand the ML Operations menu on the left and choose **Configurations**. 
     
-    You need to create a configuration of the model you are going to use. Click **Create** on the top right of the list.
+    You need to create a configuration of the model. Choose **Create**.
 
     ![create button](img/create-config-button.png)
 
     First, let's create a configuration for the **text embedding** model. 
 
-2. In the form, fill in the following information:
+2. Provide the following information and choose **Next**.
 
     - Configuration Name: **openai-embedding-config**
     - Scenario: **foundation-models**
@@ -17,43 +17,29 @@
 
     ![create config 1](img/emb-01.png)
 
-     Click **Next** to move to the next step. 
-
-3. In the form, fill in the following information:
+3. Provide in the following information and choose **Next**.
 
     - modelName: **text-embedding-ada-002**  
     - modelVersion: **latest**  
     >💡**Tip**: Ensure that the model name matches exactly as specified. Optionally, you may include a version number as outlined in the [SAP Note](https://me.sap.com/notes/3437766). For this exercise, the `latest` version is used.
 
-   ![create config 2](img/emb-02.png)
+    ![create config 2](img/emb-02.png)
 
+4. Choose **Review**.
 
-   Click **Next** to move to the next step.  
-
-4. In our case adding input artifacts is not applicable. Click **Review** to move to the next step.
-
-5. You will see all details you have entered so far. 
+5. Review the properties of your model and choose **Create**.
     
-    If there is nothing to change, click **Create** to move to the next step. 
-
     ![create config 4](img/emb-03.png)
 
-6. Notice that a Configuration ID is generated.
- 
-    Click **Create Deployment** to the top right.
+6. Choose **Create Deployment**.
 
     ![create deployment 1](img/emb-04.png)
 
-    You will be automatically navigated to the Deployments screen. 
-    Because you continued your workflow from the configuration step, you will automatically skip the deployment steps 1 to 3, and come to step 4 of the process. 
-
-7. You will see two duration options, Standard and Custom.  
-   
-    The Standard option should be selected already. Click **Review** to move to the next step
+7. Choose the duration as **Standard** and choose **Review**.
 
     ![create deployment 2](img/emb-04-2.png)
 
-8. Review the details and click **Create** to move on. 
+8. Review the details and choose **Create**. 
 
     ![create deployment 3](img/emb-05.png)
 
@@ -67,7 +53,7 @@
 
 9. While you are waiting for your first model to be deployed, repeat the steps above to deploy a **gpt-4o** model. 
 
-    Again, follow the configuration process. When it comes to "Enter Name and Executable", provide the following:
+    Follow the configuration process. When it comes to "Enter Name and Executable", provide the following:
 
     - Configuration Name: **openai-gpt-4o-config**
     - Scenario: **foundation-models**
@@ -87,7 +73,7 @@
     Proceed with creating the configuration and deploying the model.
 
 
-10. While you are waiting for your first two models to be deployed, repeat the steps above to deploy a **claude-3.5** model. 
+10. While you are waiting for your first two models to be deployed, repeat the steps above to deploy a **claude-3.7** model. 
 
     Again, follow the configuration process. When it comes to "Enter Name and Executable", provide the following:
 
