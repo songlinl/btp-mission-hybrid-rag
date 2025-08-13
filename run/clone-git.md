@@ -55,7 +55,7 @@ There are several development environments available for running Python notebook
 
     ~~~env
     ## Credentials for accessing SAP AI Core service models
-    AICORE_AUTH_URL = '<url>'
+    AICORE_AUTH_URL = '<url>/oauth/token'
     AICORE_CLIENT_ID = '<Clientid>'
     AICORE_CLIENT_SECRET = '<Clientsecret>'
     AICORE_BASE_URL = '<API_AI_URL>/v2'
